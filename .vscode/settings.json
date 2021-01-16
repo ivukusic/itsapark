@@ -1,0 +1,12 @@
+{
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#000000",
+    "titleBar.inactiveBackground": "#000000",
+    "titleBar.activeForeground": "#FFFFFF",
+    "titleBar.inactiveForeground": "#999999"
+  },
+  "flow.pathToFlow": "${workspaceFolder}/node_modules/.bin/flow",
+  "editor.formatOnSave": true,
+  "cSpell.words": ["calendar", "calendarlist", "empty", "flatlist", "kitlist", "list", "xradia", "xraida"],
+  "cSpell.ignoreWords": ["leihauftrag", "referenz"]
+}

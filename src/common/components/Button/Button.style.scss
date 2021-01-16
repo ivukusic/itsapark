@@ -1,0 +1,19 @@
+.button {
+  background-color: #000000;
+  color: white;
+  padding: 1em;
+  min-width: 140px;
+  min-height: 30px;
+  border-radius: 2px;
+  border: none;
+  text-transform: uppercase;
+  font-weight: bolder;
+  font-size: 0.85em;
+  letter-spacing: 1px;
+  &:hover {
+    background-color: '#00000066';
+  }
+  &:focus {
+    outline: none;
+  }
+}
